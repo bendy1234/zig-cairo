@@ -8,5 +8,6 @@
         "build.zig.zon",
         "cairo.zig",
         "README.md",
+        "LICENSE",
     },
 }
