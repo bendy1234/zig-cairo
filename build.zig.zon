@@ -1,0 +1,12 @@
+.{
+    .name = .cairo,
+    .version = "0.1.0",
+    .fingerprint = 0x1c28fdf4a5209d84,
+    .minimum_zig_version = "0.16.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "cairo.zig",
+        "README.md",
+    },
+}
